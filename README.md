@@ -1,2 +1,2 @@
-# spocoma
-Sport company management
+# Excon
+Exchange connector
